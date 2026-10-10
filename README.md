@@ -20,7 +20,7 @@
 3. **M3**：编辑器最小版（增删改节点、导出）  
 4. **M4**：嵌入 SDK + 白标 + 团队只读分享链接  
 
-详见 `docs/ROADMAP.md`。
+详见 `docs/ROADMAP.md` / `docs/CHECKLIST-M0.md`。
 
 ## 定制合作（可报价）
 
